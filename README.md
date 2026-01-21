@@ -5,7 +5,7 @@ Instructions:
 
 Install FL Studio
 
-Run FLinux.sh
+Run FLinux.sh using the Terminal/Console
 
 Open FL Studio
 
